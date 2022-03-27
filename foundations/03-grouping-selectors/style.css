@@ -1,0 +1,13 @@
+.spoiled {
+  font-size: 28px;
+  font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.spoiled.less-spoiled {
+  background-color: black;
+  color: white;
+}
+
+.spoiled.more-spoiled {
+  background-color: yellow;
+}
